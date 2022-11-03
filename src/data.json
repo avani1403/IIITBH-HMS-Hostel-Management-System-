@@ -1,0 +1,118 @@
+[
+	{
+		"id": "0fc1fe30-4f81-11ec-ad5c-95f6c5e4b738",
+		"HostelName": "hostel-1",
+		"Warden": "lajfljaf",
+		"Caretaker": "alflafljaofo",
+		"NoOfFloor": 1,
+		"FloorRoom": ["12", "13"],
+		"Color": "#2A9D8F",
+		"Student": [
+			{
+				"id": "e20bf120-4fae-11ec-9a7e-9157eb64ae58",
+				"StudentName": "afljlafjljfaljlaj",
+				"BranchName": "",
+				"RollNo": "",
+				"PhoneNo": "",
+				"Sem": ""
+			},
+			{
+				"id": "213af450-4f81-11ec-af63-15df60b4bf16",
+				"StudentName": "boaohfao",
+				"BranchName": "",
+				"RollNo": "",
+				"PhoneNo": "",
+				"Sem": ""
+			},
+			{
+				"id": "80c348a0-4f81-11ec-be84-85219c0e65b4",
+				"StudentName": "doasdjfoja",
+				"BranchName": "",
+				"RollNo": "",
+				"PhoneNo": "",
+				"Sem": ""
+			}
+		],
+		"Employee": [
+			{
+				"id": "3a2cac00-4faf-11ec-8a9c-bb7251a30fb3",
+				"EmployeeName": "asdfljaldfsjla",
+				"EmployeePhoneno": "",
+				"Salary": "",
+				"Role": "Warden"
+			},
+			{
+				"id": "bd7cda30-4faf-11ec-8e45-d3c6b80d133a",
+				"EmployeeName": "bhajfoajofa",
+				"EmployeePhoneno": "",
+				"Salary": "",
+				"Role": "Warden"
+			},
+			{
+				"id": "818f9880-4fb1-11ec-9f7f-d7988e41d2bd",
+				"EmployeeName": "fajflajfla",
+				"EmployeePhoneno": "",
+				"Salary": "",
+				"Role": "Warden"
+			},
+			{
+				"id": "952713c0-4faf-11ec-8b91-019db5a57fe9",
+				"EmployeeName": "jalfjljljlafj",
+				"EmployeePhoneno": "",
+				"Salary": "",
+				"Role": "Warden"
+			},
+			{
+				"id": "b19bb4a0-4fb1-11ec-856b-231485115582",
+				"EmployeeName": "lfjaljldajflajfal",
+				"EmployeePhoneno": "",
+				"Salary": "",
+				"Role": "Warden"
+			}
+		],
+		"Equipment": [
+			{
+				"id": "32d89dc0-4fb3-11ec-aed3-bf11ebd41a5a",
+				"EquipmentName": "afljcjo",
+				"Quantity": "",
+				"Cost": ""
+			},
+			{
+				"id": "2a374bd0-4fb3-11ec-a6a3-0301feb96908",
+				"EquipmentName": "aljdflajslfd",
+				"Quantity": "",
+				"Cost": ""
+			},
+			{
+				"id": "2df1e2d0-4fb3-11ec-8f90-9386bef0ab72",
+				"EquipmentName": "clalfjajfd",
+				"Quantity": "",
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"id": "e20cbd20-4bcc-11ec-a3a4-07c590c27aaa",
+		"HostelName": "Hostel-2",
+		"Warden": "lajfd",
+		"Caretaker": "lajfjlfjl",
+		"NoOfFloor": 2,
+		"FloorRoom": ["13", "13", "12"],
+		"Color": "#F4A261",
+		"Student": [],
+		"Employee": [],
+		"Equipment": []
+	},
+	{
+		"id": "68e20600-4d23-11ec-8bb1-a5d7d45b8788",
+		"HostelName": "Hostel-3",
+		"Warden": "lajdflajlaj",
+		"Caretaker": "asldflajfo",
+		"NoOfFloor": 3,
+		"FloorRoom": ["12", "11", "10", "14"],
+		"Color": "#F4A261",
+		"Student": [],
+		"Employee": [],
+		"Equipment": []
+	}
+]
